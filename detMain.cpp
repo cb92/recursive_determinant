@@ -1,6 +1,5 @@
 /********************************************************************* 
 ** Program name: Determinant Calculator
-** Author: Christina Brasco
 ** Date: October 6, 2018
 ** Description: This program prompts the user to define a matrix size
 ** and the values that fill that matrix, then calculates and returns
